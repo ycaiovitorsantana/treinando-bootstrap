@@ -1,0 +1,24 @@
+
+
+.navbar{
+    background-color:darkgray;
+}
+
+.quem-somos{
+    background-color: lightskyblue;
+    color: white;
+}
+
+.margin{
+   padding-bottom: 50px;
+   padding-top: 10px;
+}
+
+.parceiros{
+    background-color: lightpink;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+}
